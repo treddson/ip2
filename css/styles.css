@@ -1,8 +1,16 @@
-.radioTwo {
-  font-weight: normal;
+.container {
+  background-image: url("https://images.unsplash.com/photo-1495546992359-94a48035efca?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=");
+  background-repeat: no-repeat;
 }
 
-body {
-  background-image: url("ip2/imgs/borabora.jpg");
-  background-repeat: repeat;
+h4 {
+  color: #3d3d3d;
+}
+
+.radio, .radioTwo, .radioThree, .radioFour, .radioFive  {
+  color: #3d3d3d;
+}
+
+#adventure {
+  display: none;
 }
